@@ -4,7 +4,7 @@
 
 | 流程         | 备注                                                         |
 | ------------ | ------------------------------------------------------------ |
-| 申请入校     | [电院申请链接](https://shimo.im/forms/onq7Mg7jDZT4FjA9/fill) |
+| 申请入校     | [计算机系申请链接](https://shimo.im/forms/onq7Mg7jDZT4FjA9/fill) 其他系欢迎添加 |
 | 领双证       | 工作日                                                       |
 | 打包宿舍东西 | 见Q&A                                                        |
 | 退饮水机     | 本人携带机器+空桶->管理室                                    |
@@ -78,4 +78,6 @@ A:
 
 [关于电院2020年春季毕业硕士研究生证书发放办法通知](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/16576.htm)
 
-[电院研三学生申请入校链接](https://shimo.im/forms/onq7Mg7jDZT4FjA9/fill)
+[电院计算机系研三学生申请入校链接](https://shimo.im/forms/onq7Mg7jDZT4FjA9/fill)
+
+有更新或者不一致的地方欢迎提issue或者pull merge request～
